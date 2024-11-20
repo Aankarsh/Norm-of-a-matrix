@@ -39,11 +39,12 @@ print(norm_of_matrix)
 ```
 ## Output:
 ### 1-Norm of a Matrix
-[NORM OF MATRIX SECOND OUTPUT.pdf](https://github.com/user-attachments/files/17832504/NORM.OF.MATRIX.SECOND.OUTPUT.pdf)
+![](https://github.com/user-attachments/assets/98392af7-1fea-4776-9c1f-57b592def31e)
+
+
 ### 2-Norm of a Matrix
 
-
-[NORM OF MATRIX SECOND OUTPUT.pdf](https://github.com/user-attachments/files/17832536/NORM.OF.MATRIX.SECOND.OUTPUT.pdf)
+![](https://github.com/user-attachments/assets/619d22fb-6154-4efb-93e3-35a32cca3db1)
 
 ### 3-Infinity Norm of a Matrix
 ![](https://github.com/user-attachments/assets/cb27045d-6772-4cee-9c74-16ee861435f8)
